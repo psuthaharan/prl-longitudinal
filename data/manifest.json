@@ -1,0 +1,31 @@
+{
+  "participants": 150,
+  "sessions": 1000,
+  "trial_rows": 160000,
+  "files": {
+    "prl_trials.csv.gz": {
+      "bytes": 422772,
+      "sha256": "a4d95232f37aeb02d66f7322e466f4b150349ca6964bdf8e34a3b4908c118c12"
+    },
+    "weekly_measures.csv": {
+      "bytes": 47041,
+      "sha256": "a3d14fda771058520a9b7113d84fea9c6102d5e4fe1f986cf032507d2dfa9189"
+    },
+    "supplementary_table_1_sample_characteristics.csv": {
+      "bytes": 1285,
+      "sha256": "c9deebb121c79b09ab0c3ecd0f594731779db937017e48d10cd8d9afa5cec008"
+    },
+    "supplementary_table_2_weekly_retention.csv": {
+      "bytes": 213,
+      "sha256": "3465cea4cf8965fe7860dd393fffd95595973e111f2652bacf14a4986e73ec0f"
+    },
+    "supplementary_table_2_analysis_samples.csv": {
+      "bytes": 316,
+      "sha256": "e105c53b9496f916ca7236cb18452cdf3c05eef86e93d7f7f812d4e7de72bd6d"
+    },
+    "README.md": {
+      "bytes": 900,
+      "sha256": "dec6f24c0c9ad5fdd0564f8b329af910ca4670dcc23938841753bd79f0e1cdad"
+    }
+  }
+}
