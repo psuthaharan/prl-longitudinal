@@ -5,11 +5,11 @@
   "files": {
     "prl_trials.csv.gz": {
       "bytes": 422772,
-      "sha256": "a4d95232f37aeb02d66f7322e466f4b150349ca6964bdf8e34a3b4908c118c12"
+      "sha256": "9f7b536bfc8e824083f34a2a1acbb0987aade0c78523267f92923976b9998d15"
     },
     "weekly_measures.csv": {
-      "bytes": 47041,
-      "sha256": "a3d14fda771058520a9b7113d84fea9c6102d5e4fe1f986cf032507d2dfa9189"
+      "bytes": 120954,
+      "sha256": "f08d6df6a03d404063b3739cd5cbe79f72e898667cb012a76a02191e788ca754"
     },
     "supplementary_table_1_sample_characteristics.csv": {
       "bytes": 1285,
@@ -24,8 +24,8 @@
       "sha256": "e105c53b9496f916ca7236cb18452cdf3c05eef86e93d7f7f812d4e7de72bd6d"
     },
     "README.md": {
-      "bytes": 900,
-      "sha256": "dec6f24c0c9ad5fdd0564f8b329af910ca4670dcc23938841753bd79f0e1cdad"
+      "bytes": 1301,
+      "sha256": "c96a0c2795b54af3667a9a7acf56d18e598f9b8a718d8e92844d749a2028eb56"
     }
   }
 }
